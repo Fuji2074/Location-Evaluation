@@ -1,5 +1,5 @@
-from googemap import get_location
-from googemap import search_places
+from googｌemap import get_location
+from googｌemap import search_places
 import pandas as pd
 from openpyxl import load_workbook
 
